@@ -5,7 +5,7 @@ To run this tool
 
 1.sudo su
 
-2.cd White00pay-creator
+2.cd white00pay-creator
 
 3.python3 white00pay-creator.py
 
