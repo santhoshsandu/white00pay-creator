@@ -4,7 +4,9 @@ white00pay-creator is a windows and android payload creater
 To run this tool
 
 1.sudo su
+
 2.cd White00pay-creator
+
 3.python3 white00pay-creator.py
 
 Requirement 
